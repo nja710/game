@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(189, 5, 5);
+    color: azure;
+    width: 80;
+    height: 40;
+
+    border-color: lightslategray;
+    }
+    body
+    {
+        background-color: darkgray;
+    }
